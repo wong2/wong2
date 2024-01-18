@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Say hi: hi@wong2.me
+* Contact: hi@wong2.me
+* Telegram channel: https://t.me/wong2_share
 
 <!--
 **wong2/wong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
