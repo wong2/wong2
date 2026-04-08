@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi I'm wong2 👋
 
-<!--
-**wong2/wong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building
 
-Here are some ideas to get you started:
+- [diffx](https://github.com/wong2/diffx) - A local code review tool designed for the coding agent workflow
+- [weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - Integrate any agent into weixin clawbot
+- [mcpservers](https://mcpservers.org/)
+- [NotebookLM Web Importer](https://notebooklm-web-importer.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Previous work
+
+- [ChatHub](https://chathub.gg)
+- [ChatGPT for Google](https://chromewebstore.google.com/detail/ai-chat-for-search/jgjaeacdkonaoafenlfkkkmbaopkbilf)
