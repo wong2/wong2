@@ -2,6 +2,7 @@
 
 ### Building
 
+- [Slim Tools](https://slim.tools/) - The better way to use MCP
 - [vibe-ring](https://github.com/wong2/vibe-ring) - Pair your Switch Ring-Con for vibe coding
 - [diffx](https://github.com/wong2/diffx) - A local code review tool designed for the coding agent workflow
 - [weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - Integrate any agent into weixin clawbot
