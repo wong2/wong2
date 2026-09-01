@@ -2,8 +2,9 @@
 
 ### Building
 
+- [WebMCP Radar](https://chromewebstore.google.com/detail/webmcp-radar/kdkkgmhjincleigacojdcgphfcbndjck) - Discover and inspect WebMCP tools as you browse
 - [Codex Resets](https://codex-resets.com/) - Track Codex usage resets
-- [chat-adapter-weixin](https://github.com/wong2/chat-adapter-weixin) - Weixin bot adapter for Chat SDK.
+- [chat-adapter-weixin](https://github.com/wong2/chat-adapter-weixin) - Weixin bot adapter for Chat SDK
 - [Slim Tools](https://slim.tools/) - The better way to use MCP
 - [vibe-ring](https://github.com/wong2/vibe-ring) - Pair your Switch Ring-Con for vibe coding
 - [diffx](https://github.com/wong2/diffx) - A local code review tool designed for the coding agent workflow
