@@ -16,4 +16,4 @@
 ### Previous work
 
 - [ChatHub](https://chathub.gg)
-- [ChatGPT for Google](https://chromewebstore.google.com/detail/ai-chat-for-search/jgjaeacdkonaoafenlfkkkmbaopkbilf)
+- [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension)
