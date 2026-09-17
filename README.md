@@ -2,6 +2,7 @@
 
 ### Building
 
+- [UmamiBar](https://github.com/wong2/UmamiBar) - Umami analytics in your macOS menu bar
 - [CheckCheck](https://github.com/wong2/checkcheck) - A macOS menu bar app for monitoring GitHub checks and getting status notifications
 - [WebMCP Radar](https://chromewebstore.google.com/detail/webmcp-radar/kdkkgmhjincleigacojdcgphfcbndjck) - Discover and inspect WebMCP tools as you browse
 - [Codex Resets](https://codex-resets.com/) - Track Codex usage resets
