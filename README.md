@@ -2,6 +2,7 @@
 
 ### Building
 
+- [cf-mailroom](https://github.com/wong2/cf-mailroom) - Self-hosted email for humans and AI agents, entirely on Cloudflare
 - [UmamiBar](https://github.com/wong2/UmamiBar) - Umami analytics in your macOS menu bar
 - [CheckCheck](https://github.com/wong2/checkcheck) - A macOS menu bar app for monitoring GitHub checks and getting status notifications
 - [WebMCP Radar](https://chromewebstore.google.com/detail/webmcp-radar/kdkkgmhjincleigacojdcgphfcbndjck) - Discover and inspect WebMCP tools as you browse
